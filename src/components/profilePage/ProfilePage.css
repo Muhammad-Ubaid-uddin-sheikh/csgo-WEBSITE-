@@ -1,0 +1,283 @@
+.colmsubprofiles{
+    display: flex;
+    justify-content: space-between;
+}
+.mainFirstCmprofiles{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.textChangedProfile {
+    width: 50%;
+    text-align: end;
+
+}
+.textAndIcon{
+    color: #e5e7eb;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;    
+}
+.accountIdprofile ,
+.colmtagparagraph{
+    color: #848B8D;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.colmProfileFirst{
+    position: relative;
+    margin-top: 1.75rem;
+    border-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(26 29 32 );
+    --tw-drop-shadow: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+}
+.css-1sx87xm{
+    background-image: linear-gradient( 90deg, #FFA510 0%, #FFA510 0%, #2C3034 0%, #2C3034 100% );
+    position: absolute;
+    z-index: 0;
+    height: 0.75rem;
+    width: 100%;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(239 68 68);
+}
+.accountMainDiv{
+    border-bottom-width: 1px;
+    border-color: #2C3034;
+    background-image: radial-gradient( 70% 50% at 50% -5%, #FFA51022 0%, transparent );
+    position: relative;
+    z-index: 10;
+    margin-top: 0.2rem;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    border-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(26 29 32 );
+}
+.accountAmoutdivFirst{
+    position: relative;
+}
+.ccountAmoutdivSecond{
+    --tw-border-opacity: 1;
+    border-color: rgb(44 48 52 );
+    width: 100%;
+    border-top-width: 1px;
+    border-style: dashed;
+}
+.accountAmoutdivThird{
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    gap: 0px;
+    margin-top: 1rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    place-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+display: flex;
+    text-transform: uppercase;
+
+}
+.twosubOrDivsFirst{
+    pointer-events: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;    
+}
+.twosubOrDivs{
+    position: relative;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
+    margin-top: 1.5rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    /* -webkit-flex-direction: column;
+    -ms-flex-direction: column; */
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 0.75rem;
+    padding-top: 1.7rem;
+    padding-bottom: 2.5rem;
+    font-weight: 700;
+    font-family: 'Bai Jamjuree', sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.mainaccountdin{
+    pointer-events: auto;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    -ms-flex-direction: column;
+    flex-direction: column;
+
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.ThreeDivForSUbdivimg{
+    margin-top: -50px;
+    height: 6rem;
+    width: 6rem;
+    overflow: hidden;
+    border-radius: 9999px;
+    border-width: 0.2rem;
+    --tw-border-opacity: 1;
+    border-color: rgb(44 48 52 );
+    --tw-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.05);
+    --tw-shadow-colored: inset 0 2px 4px 0 var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);
+}
+.ThreeDivForSUbdivText{
+    margin-top: 0.25rem;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    --tw-drop-shadow: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+.css-mlkat6 {
+    max-width: 65vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255);
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.ThreeDivForSUbdiv{
+    margin-top: 0.125rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: rgb(229 231 235 / 0.3);
+}
+.colmLeftaccount{
+    flex-direction: row;
+    -webkit-box-pack: start;
+    gap: 0.5rem;
+    display: flex;
+    width: 100%;
+    -ms-flex-direction: column;
+    -ms-flex-align: stretch;
+}
+.colmRightaccount{
+    display: flex;
+    width: 100%;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-box-pack: end;
+        -ms-flex-pack: end;
+        justify-content: flex-end;
+        gap: 0.5rem;
+        font-family: 'Bai Jamjuree', sans-serif;
+}
+.buttonAmout{
+    border-width: 1px;
+    border-color: transparent;
+    letter-spacing: 0.05em;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 100ms;
+    border-radius: 0.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(44 48 52 );
+    position: relative;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #848B8D;
+    font-weight: 500;
+}
+.accountAmoutdivSecondDash{
+    --tw-border-opacity: 1;
+    width: 100%;
+    border-top: 0.5px dashed rgb(44 48 52 );
+}
+.pricingfourColm{
+    background: radial-gradient( 50% 65% at 50% 100%, #22c55e33, transparent 100% );
+    display: -ms-flexbox;
+    display: flex;
+    width: 7rem;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 1rem;
+    border-bottom-width: 1px;
+    border-color: rgb(34 197 94 / 0.5);
+    padding-bottom: 0.75rem;
+    font-weight: 700;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 );
+    border-bottom: 1px solid rgb(34 197 94 / 0.5) ;
+}
+.accountAmoutdivSecondDashLeft{
+    --tw-border-opacity: 1;
+    height: 100%;
+    border-left: 0.5px dashed  rgb(44 48 52);
+    height: 3.5rem;
+}
+.dynamicpring
+{
+    color: rgb(255 255 255);
+    font-size: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+}
+.textColmfirst{
+    color: rgb(34 197 94);
+    font-size: 16px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.paddingsecodSec1222f31{
+    margin-top: 30px;
+}

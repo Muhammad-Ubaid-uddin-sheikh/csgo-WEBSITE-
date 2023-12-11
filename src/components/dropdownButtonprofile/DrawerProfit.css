@@ -1,0 +1,45 @@
+.ant-space{
+    background: rgb(44 48 52) !important;
+    padding: 2px 3px !important;
+    border-radius: 5px  !important;
+}
+.ant-avatar{
+    background: #848B8D !important;
+}
+.porofilePage{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #e5e7eb;
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+
+}
+:where(.css-dev-only-do-not-override-xu9wm8).ant-space-gap-col-small{
+    column-gap: 2px !important;
+}
+:where(.css-dev-only-do-not-override-xu9wm8).ant-dropdown .ant-dropdown-menu, :where(.css-dev-only-do-not-override-xu9wm8).ant-dropdown-menu-submenu .ant-dropdown-menu{
+    padding: 4px;
+    border-radius: 0px !important;
+  
+    background-color: #1F2225 !important;
+    border: 1px solid #e5e7eb3b !important;
+    border-top: none !important;
+    border-radius: 0;
+    font-family: 'Bai Jamjuree', sans-serif !important;
+}
+:where(.css-dev-only-do-not-override-xu9wm8).ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item{
+    font-family: 'Bai Jamjuree', sans-serif !important;
+    padding: 5px 1px 5px 1px !important;
+}
+.dropdownHeaderEditsProfile{
+    padding-left: 6px;
+    padding-right: 11px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #e5e7eb;
+    transition: all 0.3s ease-in-out;
+}
+.dropdownHeaderEditsProfile:hover{
+    color: black;
+    transition: all 0.3s ease-in-out;
+}

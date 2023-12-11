@@ -1,0 +1,258 @@
+.rowHomePageLayout{
+    height: 11rem;
+    flex-direction: row;
+    display: flex;
+    gap: 1.5rem;;
+}
+.colmHomePageFirst{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    border-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 34 37 / var(--tw-bg-opacity));
+    width: 55%;
+}
+.colmHomePageSecond{
+    background: radial-gradient(62% 62% at 50% 60%, #6fff0013 0%, transparent 100%);
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    flex: 1 1 0%;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    border-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 34 37 / var(--tw-bg-opacity));
+    width: 45%;
+}
+.HomePageLayoutDrawer{
+    width: 1200px ;
+    margin: auto;
+    margin-top: 40px;
+}
+.FirstImageCity{
+    position: absolute;
+    inset: 0px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.2;
+}
+.SecondSpider{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 7rem;
+    width: 7rem;
+
+}
+.ThirdImgHOme{
+    position: absolute;
+    bottom: 0px;
+    left: -35px;
+    width: 25%;
+    top: 100px;
+}
+.VideoEditHomepage{    height: 136%;
+    width: 48%;
+    display: block;
+    position: absolute;
+    top: -63px;
+}
+.contentFIrstDiv{
+    position: relative;
+    display: -webkit-flex;
+    font-size: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #A1A2A3;
+    display: flex;
+    align-items: center;
+    margin-left: 38%;
+    font-weight: 600;
+}
+.colorCHnaged{
+    color: #fcfdff;
+    font-weight: 700;
+}
+.textSub{
+    text-align: start;
+}
+.Additinal{
+    margin-top: 10px !important;
+}
+.Image2nd{
+    position: absolute;
+    height: 125%;
+    top: -44px;
+    left: 15px;
+}
+.SeconddivHom{
+    font-size: 1.35rem  ;
+    font-family: 'Bai Jamjuree', sans-serif;
+   color: #4BFF5D;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+  
+  
+}
+.textSubNew{
+    text-align: start;
+    font-size: 13px;
+}
+.greenButtonStyles{
+    border-width: 1px;
+    border-color: transparent;
+    letter-spacing: 0.05em;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 100ms;
+    border-radius: 0.25rem;
+    padding: 0.625rem 0.75rem 0.625rem 1rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(22 163 74 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+    position: relative;
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin-top: 10px;   
+    font-weight: 500;
+    transition: all 0.4s ease-in-out;
+}
+.iconColorEidt{
+    color:#FFC701;
+    font-size: 23px;
+
+}
+.greenButtonStyles:hover{
+    opacity: 0.4;
+}
+hr{
+    margin-top: 28px;
+    border-color: rgb(31 34 37 );
+    opacity: 1;
+}
+.headingTextHomepg{
+    color: #fcfdff;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 22px;
+    text-align: start;
+    font-weight: 700;
+letter-spacing: 0.7px;
+}
+.iconColorGaming{
+    color: #FFC701;
+    font-size: 32px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+}
+.ColorChnaged{
+    color: #FFC701 !important;
+}
+.thirdsetionHOmepg{
+    background: radial-gradient( 50% 100% at 10% 80%, #FFA51020 0%, transparent 100% );
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 0.5rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(26 29 32 / var(--tw-bg-opacity));
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-top: 30px;
+}
+.imagesthirdFirstHp{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 100%;
+}
+.imagesthirdHomepg{
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: stretch;
+    align-items: center;
+  
+}
+
+.css-yfo96e ,.css-ttn1xo{
+    background-color: #151719 !important;
+}
+.mindcontentThird{
+    text-align: start;
+    width: 51%;
+    padding-left: 12px;
+    padding-right: 28px;
+
+}
+.headingFirstHomePg{
+    text-align: start;
+}
+.firstspanthird{
+    color: #FFC701;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 1rem;    
+    line-height: 1.6rem;
+    font-style: italic;
+    text-shadow: 0 0 5px #FFA51080;
+    font-weight: 500;
+}
+.secondspanthird{
+    color: #FFC701;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    text-shadow: 0 0 5px #FFA51080;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.textSubEdit2nd{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #A1A2A3;
+    padding-top: 14px;
+}
+.rowforThreedivs{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.comDivTHirdhom{
+    width: 33.33%;
+    background: radial-gradient( 62% 62% at 50% 68%, #FFC70115 0%, #FFC70100 100% ),#1F2225;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: space-around;
+    -ms-flex-pack: space-around;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    padding-bottom: 1.25rem;
+    padding-top: 0.75rem;
+    border-radius: 10px;
+
+}
+#textnewEdition{
+    padding: 0;
+    margin-top: -49px;
+    padding-bottom: 10px;
+}
+.threecolmDic{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}

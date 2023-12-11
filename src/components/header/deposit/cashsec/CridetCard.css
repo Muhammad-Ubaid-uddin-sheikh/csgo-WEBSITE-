@@ -1,0 +1,83 @@
+.CredetcardIFrstMain,
+.formDivMain{
+
+    max-width: 40rem;
+    margin: auto;
+    text-align: center;
+    padding-top: 26px;
+}
+.css-dspxar {
+    display: flex;
+    width: 100%;
+    gap: 0.5rem;
+    border-radius: 0.25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 34 37 );
+    padding: 1.25rem;
+    align-items: baseline;
+    text-align: start;
+}
+.divsinoutFeild{
+    width: 47%;
+    position: relative;
+}
+.divsinputequalto{
+    width: 4%;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    color: #c9c9c9;
+}
+.css-1f8eutj {
+    position: absolute;
+    display: flex;
+    height: 100%;
+    width: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    top: 10px;
+    left: -5px;
+}
+.inputFeildEdit{
+    width: 100%;
+    padding: 10px 0px 10px 30px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(44 48 52);
+    color: #e5e7eb;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.divsinoutFeildThirdEmail{
+    width: 100%;
+}
+.formIdNews {
+    text-align: start;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+:where(.css-dev-only-do-not-override-xu9wm8).ant-qrcode{
+    background-color: white !important;
+}
+.qrcodeandtextCopy{
+    width: 72%;
+    position: relative;
+}
+.qrcodeandtext{
+    width: 28%;
+}
+#iconStylesCopied{
+    position: absolute;
+    top: 41px;
+    align-items: center;
+    display: flex;
+    right: 9px;
+    color: #848B8D;
+}
+.editcopycode{
+    padding-left: 16px;
+    padding-top: 7px;
+
+}
