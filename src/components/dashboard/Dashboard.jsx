@@ -30,7 +30,7 @@ function Dashboard() {
 
   return (
     <div>
-      <h1>Dashboard</h1>
+      {/* <h1>Dashboard</h1>
       <h2>Balance: {coinBalance} coins</h2>
       <input
         type="number"
@@ -38,11 +38,9 @@ function Dashboard() {
         value={transactionAmount}
         onChange={(e) => setTransactionAmount(e.target.value)}
       />
-     
-        {/* <PayPalButtons  onApprove={handleDeposit} /> */}
         <button onApprove={handleDeposit}></button>
      
-      <button onClick={handleDeposit}>Deposit Coins (via PayPal)</button>
+      <button onClick={handleDeposit}>Deposit Coins (via PayPal)</button> */}
       <ToastContainer />
     </div>
   );
@@ -51,3 +49,4 @@ function Dashboard() {
 
 
 export default Dashboard;
+
